@@ -1,4 +1,4 @@
 # Data-Analysis-Cisco-
 Started a course on cisco title: Data Analytics Essentials
 
-The Cisco repository contains all the practice lab and exercises I completed as I was being guided throughout the course.
+This Cisco repository contains all the practice lab and exercises I will be completing throughout the course.
