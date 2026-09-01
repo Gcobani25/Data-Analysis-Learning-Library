@@ -1,4 +1,3 @@
-# Data Analysis Learning Library
-Started a course on cisco, title: Data Analytics Essentials
+# Data Analysis
 
-This Cisco repository contains all the practice lab and exercises I will be completing throughout the course.
+This repository contains all the work done in order to help me on my data analysis path, it includes, practice labs, exercises and it also contains projects that I have created. 
